@@ -20,13 +20,16 @@
 
 ###
 
-<img align="right" height="250" src="https://w.wallhaven.cc/full/rr/wallhaven-rrxmgw.jpg"  />
+<img align="right" height="450" src="https://w.wallhaven.cc/full/rr/wallhaven-rrxmgw.jpg"  />
 
 ###
 
 <h2 align="left">i like to create software which makes me go</h2>
 
 ###
+
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/lil3saad/lil3saad/output/snake.svg" alt="Snake animation" />
 
 ###
