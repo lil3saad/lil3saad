@@ -32,18 +32,3 @@
 <img src="https://raw.githubusercontent.com/lil3saad/lil3saad/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/syed-saad-ap21/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="97" height="50" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/Syed_Saad_21" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="97" height="50" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/devhead_sicario/?hl=en" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="97" height="50" alt="instagram logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="97" height="50" alt="gmail logo"  />
-  </a>
-</div>
