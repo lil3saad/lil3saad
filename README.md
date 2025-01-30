@@ -24,8 +24,6 @@
 
 ###
 
-<h2 align="left">i like to create software which makes me go</h2>
-
 
 <br clear="both">
 
