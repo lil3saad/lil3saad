@@ -20,7 +20,7 @@
 
 ###
 
-<img align="right" height="450" src="https://w.wallhaven.cc/full/rr/wallhaven-rrxmgw.jpg"  />
+<img align="right" height="250" src="https://w.wallhaven.cc/full/rr/wallhaven-rrxmgw.jpg"  />
 
 ###
 
