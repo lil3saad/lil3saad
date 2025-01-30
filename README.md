@@ -1,4 +1,4 @@
-<h2 align="left"> Hello World,Lads,Mandem..Wagwan     ,<br>- I am a Android Developer logging in from bengaluru , India <br>- I get a high building STUNNING and FAST mobile applications that simply work <br>- I turn complex problems into sleek, user-friendly apps with Kotlin, MVVM, and Firebase - and yes, I’ve mastered the art of debugging while sipping coffee and pretending my app won’t crash in production!</h2>
+<h2 align="left"> Hello World,Lads,Mandem..Wagwan     ,<br>- I am a Android Developer logging in from bengaluru , India <br>- I get a high building STUNNING and FAST mobile applications that simply work <br>- I turn complex problems into sleek, user-friendly apps with Kotlin, MVVM, and Firebase - and yes, I’ve mastered the art of debugging while controlling my BP and praying to Elon musk that my app won’t crash in production!</h2>
 
 ###
 
