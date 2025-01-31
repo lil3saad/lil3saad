@@ -22,12 +22,12 @@
 ###
 
 <div align="center">
-<img align="center" height="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGRpMzFzMHFwY2U4Y3p4enVsZnEzcGR5OHJsMHZieDNtd3J4ZXZociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JyRwYySFkRjdTgqdoX/giphy.gif"  />
+<img align="center" height="250" src="
+https://w.wallhaven.cc/full/rr/wallhaven-rrxmgw.jpg"  />
 </div>
 
 
 
-https://w.wallhaven.cc/full/rr/wallhaven-rrxmgw.jpg
 
 
 
