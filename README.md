@@ -1,5 +1,5 @@
 <h2 align="left"> Hello World , Lads , Mandem , Gyaldem..Wagwan I am a Android Developer </h2>  
-<h3>I get a high building STUNNING and FAST mobile applications that simply work <br>I turn complex problems into sleek, user-friendly apps with Jetpack Compose , Kotlin-Coroutines ,  MVVM , Koin-Di and Firebase - and yes, I’ve mastered the art of debugging while controlling my BP and praying to the gods and  Elon musk that my app won’t crash like his spaceships in production!</h3>
+<h3>I get a high building STUNNING and FAST mobile applications that simply work <br>I turn complex problems into sleek, user-friendly apps with Jetpack Compose , Kotlin-Coroutines ,  MVVM , Koin-Di and Firebase - and yes, I’ve mastered the art of debugging while controlling my BP and praying to the gods and  Elon musk that my app won’t crash like spaceship in production</h3>
 
 ###
 
